@@ -11,5 +11,3 @@ Se vc estiver usando o vscode (SHOW!!!) se não proceda com seu editor favorito<
 Estes procedimentos atendem os requisitos do linux<br>
 Para o windows <br>
 Aba o vscode,logo apos assece o menu superior File->add folder to workspace.
-
-
